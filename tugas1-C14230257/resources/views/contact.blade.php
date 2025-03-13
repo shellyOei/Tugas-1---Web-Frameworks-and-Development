@@ -2,9 +2,9 @@
 
 @section('content')
 <div class="w-screen min-h-screen bg-gradient-to-b from-[#53483B] via-[#605c56] to-[#817e7b] mx-auto px-4 py-12 ">
-    <h1 class="text-4xl font-bold text-center max-sm:my-8 sm:mt-20 mb-10 title text-white">Contact Us</h1>
+    <h1 data-aos="fade-right" data-aos-duration="500" class="text-4xl font-bold text-center max-sm:my-8 sm:mt-20 mb-10 title text-white">Contact Us</h1>
 
-    <div class="w-[90%] lg:w-[1000px] h-fit bg-[#30211b] mx-auto flex max-sm:flex-col rounded-3xl">
+    <div data-aos="fade-down" data-aos-duration="1000" class="w-[90%] lg:w-[1000px] h-fit bg-[#30211b] mx-auto flex max-sm:flex-col rounded-3xl">
         {{-- left --}}
         <div class="h-1/2 sm:w-1/2 flex flex-col items-start justify-center p-9 space-y-4">
             <h1 class="text-base lg:text-lg text-white">Butuh Tau Memilih Furnitur yang Tepat?</h1>
