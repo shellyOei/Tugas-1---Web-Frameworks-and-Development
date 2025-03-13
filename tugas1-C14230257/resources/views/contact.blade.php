@@ -7,9 +7,9 @@
     <div data-aos="fade-down" data-aos-duration="1000" class="w-[90%] lg:w-[1000px] h-fit bg-[#30211b] mx-auto flex max-sm:flex-col rounded-3xl">
         {{-- left --}}
         <div class="h-1/2 sm:w-1/2 flex flex-col items-start justify-center p-9 space-y-4">
-            <h1 class="text-base lg:text-lg text-white">Butuh Tau Memilih Furnitur yang Tepat?</h1>
+            <h1 class="text-base lg:text-lg text-white text">Butuh Tau Memilih Furnitur yang Tepat?</h1>
             <h1 class="title text-3xl lg:text-5xl text-[#ede3c5]">LEAVE A REQUEST</h1>
-            <h1 class="text-sm text-white">Tinggalkan pesan Anda, dan tim kami akan membantu menemukan solusi terbaik untuk hunian impian Anda!</h1>
+            <h1 class="text-sm text-white text">Tinggalkan pesan Anda, dan tim kami akan membantu menemukan solusi terbaik untuk hunian impian Anda!</h1>
     
             <input type="text" placeholder="Nama" class="text mt-2 w-full p-3 rounded-full bg-[#44312b] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#dbcda2] border border-[#ede3c5]">
             <input type="tel" placeholder="Nomor Telepon" class="text w-full p-3 rounded-full bg-[#44312b] text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-[#dbcda2] border border-[#ede3c5]">
